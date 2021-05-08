@@ -6,17 +6,15 @@ Experienced in Full-stack development with a demonstrated history of working in 
 
 1. Professional Skills
 
-    ```
-    Experienced in Microservice Development (Node JS)
-
-    Experienced in Backend Development with NodeJS, Django
-
-    Experienced in Frontend Development with Material UI, Ant Design (React JS)
-
-    Develop CI/CD principles in Jenkins, Gitlab, Docker
-
-    Have worked with Jira, Confluence
-    ```
+    > Experienced in Microservice Development (Node JS)
+    >
+    > Experienced in Backend Development with NodeJS, Django
+    > 
+    > Experienced in Frontend Development with Material UI, Ant Design (React JS)
+    >
+    > Develop CI/CD principles in Jenkins, Gitlab, Docker
+    > 
+    > Have worked with Jira, Confluence
 
 2. Technical Skills
 
