@@ -1,37 +1,65 @@
-## Welcome to GitHub Pages
+## Welcome to Viet-Hung Le's home
 
-You can use the [editor on GitHub](https://github.com/vihu96/vihu96/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Experienced in Full-stack development with a demonstrated history of working in technology company. Strong quality assurance professional with a Bachelor of Networks and Communication focused from the University of Informatlogy.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### MY SKILLS
 
-### Markdown
+1. Professional Skills
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```
+Experienced in Microservice Development (Node JS)
 
-```markdown
-Syntax highlighted code block
+Experienced in Backend Development with NodeJS, Django
 
-# Header 1
-## Header 2
-### Header 3
+Experienced in Frontend Development with Material UI, Ant Design (React JS)
 
-- Bulleted
-- List
+Develop CI/CD principles in Jenkins, Gitlab, Docker
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Have worked with Jira, Confluence
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+2. Technical Skills
 
-### Jekyll Themes
+![technical skills](images/technical-skills.png "technical skills")
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vihu96/vihu96/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### MY EDUCATION
 
-### Support or Contact
+> __Good Bachelor’s Degree__
+> 
+> _Networks & Communication_
+> 
+> 2014 - 2019
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+> __Scientific Paper in INISCOM 2019__
+> 
+> _UiTiOt-Vlab: A Low Cost Physical IoTs Testbed Based on Over-The-Air Programming Approach_
+> 
+> 2019
+
+### WORK EXPERIENCE
+
+1. 2015 - 2018: __President of UIT’s Student Council__ at UIT-VNU  /  Ho Chi Minh City
+
+> Become a person good at problem resolving, analytical, critical thinking skills; good communicator, teamwork or independence; time and team management skills.
+
+2. 2016 - 2017: __Fresher Software Engineer__ at VNG Company  /  Ho Chi Minh City
+
+> Contributed the landing page for promotion the 123cam, SmartPager project.
+
+3. 2017 - now: __Freelancer__ in Ho Chi Minh city
+
+> Core team member at the Single Sign On project that allows a user to log in with a single ID and password to any of several related, yet independent, software systems.
+>
+> Building application system at TalkFirst English Center.
+>
+> Good understanding of caching, web security knownledge (https, cors, csp, owasp), testing, CI/CD, search engine, message broker, containerization, web socket, web server - nginx.
+
+### REFERENCES
+
+__Le Trung-Quan / Assoc. Prof.__
+
+_Faculty of Computer Networks & Communications, Dean_
+
+__E:__ quanlt@uit.edu.vn
+
+__P:__ +84 772 501 188
