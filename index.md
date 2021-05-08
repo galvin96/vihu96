@@ -20,7 +20,7 @@ Have worked with Jira, Confluence
 
 2. Technical Skills
 
-![technical skills](images/technical-skills.png "technical skills")
+![technical skills](/images/technical-skills.png "technical skills")
 
 ### MY EDUCATION
 
