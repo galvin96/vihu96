@@ -1,7 +1,7 @@
 
 # Welcome to Viet-Hung Le's home
 
-Experienced in Full-stack development with a demonstrated history of working in technology company. Strong quality assurance professional with a Bachelor of Networks and Communication focused from the University of Informatlogy.
+Experienced in Full-stack development with a demonstrated history of working in technology company. Strong quality assurance professional with a Bachelor of Computer Networks and Communication focused from the University of Information Technology.
 
 ## MY SKILLS
 
@@ -17,7 +17,7 @@ Experienced in Full-stack development with a demonstrated history of working in 
 > 
 > Outstanding software design (Figma, UXPin)
 > 
-> Have worked with Jira, Confluence, Redmine
+> Worked with Jira, Confluence, Redmine
 
 2. Technical Skills
 
@@ -80,7 +80,7 @@ Experienced in Full-stack development with a demonstrated history of working in 
 
 ![dong_nai_que_huong_em.jpg](/images/dong_nai_que_huong_em.jpg)
 
-I've deploy 4 LMS systems for The Children House of Dong Nai province, HoChiMinh Communist Youth Union of Ho Chi Minh city, Vietnam Youth Federation of Ho Chi Minh city and HoChiMinh Communist Youth Union of School of Management - University of Economics Ho Chi Minh City. All of systems provide an platform of online contest with a variaty of the question types, serve large amount of traffic at the same time.
+I've deployed 4 LMS systems for The Children House of Dong Nai province, HoChiMinh Communist Youth Union of Ho Chi Minh city, Vietnam Youth Federation of Ho Chi Minh city and HoChiMinh Communist Youth Union of School of Management - University of Economics Ho Chi Minh City. All of systems provide an platform of online contest with a variaty of the question types, serve large amount of traffic at the same time.
 
 ### Messenger Chatbot (NodeJS)
 
@@ -98,7 +98,7 @@ This project includes 2 systems: a dashboard to overview and manage staffs, stud
 
 ![jeckin.jpg](/images/jeckin.jpg)
 
-I've build this system for learning Django and improving Typescript skill
+I've built this system for learning Django and improving Typescript skill
 
 ## REFERENCES
 
