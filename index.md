@@ -21,11 +21,13 @@ Experienced in Full-stack development with a demonstrated history of working in 
 
 2. Technical Skills
 
-| |  |  |
-| ---:        |    ----:   |  ----:   |  
-| ![4](https://progress-bar.dev/4?scale=5&suffix=/5&width=200&title=NodeJS)      | ![4](https://progress-bar.dev/4?scale=5&suffix=/5&width=200&title=MongoDB)       |   ![4](https://progress-bar.dev/4?scale=5&suffix=/5&width=200&title=ReactJS)      |
-| ![4](https://progress-bar.dev/4?scale=5&suffix=/5&width=200&title=Redis)      | ![4](https://progress-bar.dev/4?scale=5&suffix=/5&width=200&title=Docker)       |   ![4](https://progress-bar.dev/4?scale=5&suffix=/5&width=200&title=Microservice)      |
-| ![3/5](https://progress-bar.dev/3?scale=5&suffix=/5&width=200&title=Django)      | ![4](https://progress-bar.dev/4?scale=5&suffix=/5&width=200&title=Deployment)       |   ![4](https://progress-bar.dev/4?scale=5&suffix=/5&width=200&title=GoogleScript)      |
+| Development |  System, Cache, Something else|
+| ---:        |    ----:   |
+| ![4](https://progress-bar.dev/4?scale=5&suffix=/5&width=200&title=NodeJS)      | ![4](https://progress-bar.dev/4?scale=5&suffix=/5&width=200&title=Docker)       |  
+| ![4](https://progress-bar.dev/4?scale=5&suffix=/5&width=200&title=ReactJS)      | ![4](https://progress-bar.dev/4?scale=5&suffix=/5&width=200&title=Redis)      | 
+| ![4](https://progress-bar.dev/4?scale=5&suffix=/5&width=200&title=MongoDB)       |   ![4](https://progress-bar.dev/4?scale=5&suffix=/5&width=200&title=Microservice)      |
+| ![3/5](https://progress-bar.dev/3?scale=5&suffix=/5&width=200&title=Django)      | ![4](https://progress-bar.dev/4?scale=5&suffix=/5&width=200&title=Unix)       |   
+| ![3/5](https://progress-bar.dev/3?scale=5&suffix=/5&width=200&title=GoogleScript)      | ![3/5](https://progress-bar.dev/3?scale=5&suffix=/5&width=200&title=ElasticSearch) |
 
 
 ## MY EDUCATION
