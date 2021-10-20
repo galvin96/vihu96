@@ -26,17 +26,33 @@ Experienced in Full-stack development with a demonstrated history of working in 
       <div class="skill-thumbnail flex justify-center items-center">
          <img src="/images/skill-border.png" class="skill-border absolute top-0 left-0">
          <img src="/images/nodejs.png" class="skill-name">
-         <img src="/images/star-4.png" class="absolute">
+         <img src="/images/star-4.png" class="absolute skill-level">
       </div>
       <p class="skill-title">
          NodeJS
       </p>
    </div>
+   <div class="skill-item">
+      <div class="skill-thumbnail flex justify-center items-center">
+         <img src="/images/skill-border.png" class="skill-border absolute top-0 left-0">
+         <img src="/images/reactjs.png" class="skill-name">
+         <img src="/images/star-4.png" class="absolute skill-level">
+      </div>
+      <p class="skill-title">
+         ReactJS
+      </p>
+   </div>
+   <div class="skill-item">
+      <div class="skill-thumbnail flex justify-center items-center">
+         <img src="/images/skill-border.png" class="skill-border absolute top-0 left-0">
+         <img src="/images/mongodb.png" class="skill-name">
+         <img src="/images/star-4.png" class="absolute skill-level">
+      </div>
+      <p class="skill-title">
+         MongoDB
+      </p>
+   </div>
 </div>
-
-![4](https://progress-bar.dev/4?scale=5&suffix=/5&width=200&title=ReactJS)
-
-![4](https://progress-bar.dev/4?scale=5&suffix=/5&width=200&title=MongoDB)
 
 ![3/5](https://progress-bar.dev/3?scale=5&suffix=/5&width=200&title=Django)
 
