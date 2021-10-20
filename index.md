@@ -112,17 +112,6 @@ Experienced in Full-stack development with a demonstrated history of working in 
          Unix
       </p>
    </div>
-   <div class="skill-item">
-      <div class="skill-thumbnail flex justify-center items-center">
-         <img src="/images/skill-border.png" class="skill-border absolute top-0 left-0">
-         <img src="/images/elastic.png" class="skill-name">
-         <img src="/images/star-3.png" class="absolute skill-level">
-      </div>
-      <p class="skill-title">
-         Elastic
-      </p>
-   </div>
-
 </div>
 
 ## MY EDUCATION
