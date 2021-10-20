@@ -1,9 +1,11 @@
 
 .skill-item {
     width: 100%;
-    max-width: 220px;
+}
+.skill-thumbnail {
+    position: relative;
     background-image: url("/images/skill-border.png");
     background-repeat: no-repeat;
     background-position: top left;
-    background-size: contain;
+    background-size: cover;
 }
