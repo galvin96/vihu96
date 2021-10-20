@@ -4,11 +4,22 @@
 }
 .skill-thumbnail {
     position: relative;
+    width: 156px;
+    height: 140px;
 }
 .skill-border {
     width: 100%;
 }
+.skill-name {
+    width: 80%;
+}
 .skill-level {
-    bottom: 10px;
     width: 60%;
+    bottom: -4px;
+}
+.skill-title {
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 10px;
 }
