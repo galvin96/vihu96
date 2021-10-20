@@ -26,7 +26,7 @@ Experienced in Full-stack development with a demonstrated history of working in 
       <div class="skill-thumbnail flex justify-center items-center">
          <img src="/images/skill-border.png" class="skill-border absolute top-0 left-0">
          <img src="/images/nodejs.png" class="skill-name">
-         <img src="/images/star-4.png" class="absolute skill-level">
+         <img src="/images/star-5.png" class="absolute skill-level">
       </div>
       <p class="skill-title">
          NodeJS
@@ -36,7 +36,7 @@ Experienced in Full-stack development with a demonstrated history of working in 
       <div class="skill-thumbnail flex justify-center items-center">
          <img src="/images/skill-border.png" class="skill-border absolute top-0 left-0">
          <img src="/images/reactjs.png" class="skill-name">
-         <img src="/images/star-4.png" class="absolute skill-level">
+         <img src="/images/star-5.png" class="absolute skill-level">
       </div>
       <p class="skill-title">
          ReactJS
@@ -46,28 +46,84 @@ Experienced in Full-stack development with a demonstrated history of working in 
       <div class="skill-thumbnail flex justify-center items-center">
          <img src="/images/skill-border.png" class="skill-border absolute top-0 left-0">
          <img src="/images/mongodb.png" class="skill-name">
-         <img src="/images/star-4.png" class="absolute skill-level">
+         <img src="/images/star-5.png" class="absolute skill-level">
       </div>
       <p class="skill-title">
          MongoDB
       </p>
    </div>
+   <div class="skill-item">
+      <div class="skill-thumbnail flex justify-center items-center">
+         <img src="/images/skill-border.png" class="skill-border absolute top-0 left-0">
+         <img src="/images/django.png" class="skill-name">
+         <img src="/images/star-3.png" class="absolute skill-level">
+      </div>
+      <p class="skill-title">
+         Django
+      </p>
+   </div>
+   <div class="skill-item">
+      <div class="skill-thumbnail flex justify-center items-center">
+         <img src="/images/skill-border.png" class="skill-border absolute top-0 left-0">
+         <img src="/images/google-apps-script.svg" class="skill-name">
+         <img src="/images/star-4.png" class="absolute skill-level">
+      </div>
+      <p class="skill-title">
+         Google Script
+      </p>
+   </div>
+   <div class="skill-item">
+      <div class="skill-thumbnail flex justify-center items-center">
+         <img src="/images/skill-border.png" class="skill-border absolute top-0 left-0">
+         <img src="/images/docker.png" class="skill-name">
+         <img src="/images/star-4.png" class="absolute skill-level">
+      </div>
+      <p class="skill-title">
+         Docker
+      </p>
+   </div>
+   <div class="skill-item">
+      <div class="skill-thumbnail flex justify-center items-center">
+         <img src="/images/skill-border.png" class="skill-border absolute top-0 left-0">
+         <img src="/images/redis.png" class="skill-name">
+         <img src="/images/star-4.png" class="absolute skill-level">
+      </div>
+      <p class="skill-title">
+         Redis
+      </p>
+   </div>
+   <div class="skill-item">
+      <div class="skill-thumbnail flex justify-center items-center">
+         <img src="/images/skill-border.png" class="skill-border absolute top-0 left-0">
+         <img src="/images/microservice.png" class="skill-name">
+         <img src="/images/star-4.png" class="absolute skill-level">
+      </div>
+      <p class="skill-title">
+         Microservice
+      </p>
+   </div>
+   <div class="skill-item">
+      <div class="skill-thumbnail flex justify-center items-center">
+         <img src="/images/skill-border.png" class="skill-border absolute top-0 left-0">
+         <img src="/images/unix.png" class="skill-name">
+         <img src="/images/star-4.png" class="absolute skill-level">
+      </div>
+      <p class="skill-title">
+         Unix
+      </p>
+   </div>
+   <div class="skill-item">
+      <div class="skill-thumbnail flex justify-center items-center">
+         <img src="/images/skill-border.png" class="skill-border absolute top-0 left-0">
+         <img src="/images/elastic.png" class="skill-name">
+         <img src="/images/star-3.png" class="absolute skill-level">
+      </div>
+      <p class="skill-title">
+         Elastic
+      </p>
+   </div>
+
 </div>
-
-![3/5](https://progress-bar.dev/3?scale=5&suffix=/5&width=200&title=Django)
-
-![3/5](https://progress-bar.dev/3?scale=5&suffix=/5&width=200&title=GoogleScript)
-
-![4](https://progress-bar.dev/4?scale=5&suffix=/5&width=200&title=Docker)
-
-![4](https://progress-bar.dev/4?scale=5&suffix=/5&width=200&title=Redis)
-
-![4](https://progress-bar.dev/4?scale=5&suffix=/5&width=200&title=Microservice)
-
-![4](https://progress-bar.dev/4?scale=5&suffix=/5&width=200&title=Unix)
-
-![3/5](https://progress-bar.dev/3?scale=5&suffix=/5&width=200&title=ElasticSearch)
-
 
 ## MY EDUCATION
 
