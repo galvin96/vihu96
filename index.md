@@ -24,8 +24,9 @@ Experienced in Full-stack development with a demonstrated history of working in 
 <div class="grid grid-cols-3 gap-4">
    <div class="skill-item">
       <div class="skill-thumbnail flex justify-center items-center">
+         <img src="/images/skill-border.png" class="skill-border absolute top-0 left-0">
          <img src="/images/nodejs.png">
-         <img src="/images/star-4.png" class="absolute inset-x-0 bottom-0">
+         <img src="/images/star-4.png" class="absolute">
       </div>
       NodeJS
    </div>

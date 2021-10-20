@@ -4,8 +4,11 @@
 }
 .skill-thumbnail {
     position: relative;
-    background-image: url("/images/skill-border.png");
-    background-repeat: no-repeat;
-    background-position: top left;
-    background-size: cover;
+}
+.skill-border {
+    width: 100%;
+}
+.skill-level {
+    bottom: 10px;
+    width: 60%;
 }
