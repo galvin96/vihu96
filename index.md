@@ -21,7 +21,12 @@ Experienced in Full-stack development with a demonstrated history of working in 
 
 2. Technical Skills
 
-![4](https://progress-bar.dev/4?scale=5&suffix=/5&width=200&title=NodeJS)
+<div class="grid grid-cols-3 gap-4">
+   <div class="skill-item flex justify-center items-center">
+      <img src="/images/nodejs.png">
+   </div>
+   NodeJS
+</div>
 
 ![4](https://progress-bar.dev/4?scale=5&suffix=/5&width=200&title=ReactJS)
 

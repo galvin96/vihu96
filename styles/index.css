@@ -1,0 +1,9 @@
+
+.skill-item {
+    width: 100%;
+    max-width: 220px;
+    background-image: url("/images/skill-border.png");
+    background-repeat: no-repeat;
+    background-position: top left;
+    background-size: contain;
+}
