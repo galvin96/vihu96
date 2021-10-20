@@ -21,7 +21,7 @@ Experienced in Full-stack development with a demonstrated history of working in 
 
 2. Technical Skills
 
-<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
+<div class="grid grid-cols-2 md:grid-cols-3 gap-4">
    <div class="skill-item">
       <div class="skill-thumbnail flex justify-center items-center">
          <img src="/images/skill-border.png" class="skill-border absolute top-0 left-0">
