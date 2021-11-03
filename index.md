@@ -116,10 +116,20 @@ Experienced in Full-stack development with a demonstrated history of working in 
       <div class="skill-thumbnail flex justify-center items-center">
          <img src="/images/skill-border.png" class="skill-border absolute top-0 left-0">
          <img src="/images/flutter.svg" class="skill-name">
-         <img src="/images/star-4.png" class="absolute skill-level">
+         <img src="/images/star-3.png" class="absolute skill-level">
       </div>
       <p class="skill-title">
          Flutter
+      </p>
+   </div>
+   <div class="skill-item">
+      <div class="skill-thumbnail flex justify-center items-center">
+         <img src="/images/skill-border.png" class="skill-border absolute top-0 left-0">
+         <img src="/images/solidity.svg" class="skill-name">
+         <img src="/images/star-2.png" class="absolute skill-level">
+      </div>
+      <p class="skill-title">
+         Solidity
       </p>
    </div>
 </div>
