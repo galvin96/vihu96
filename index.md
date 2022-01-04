@@ -23,10 +23,8 @@ Experienced in Full-stack development with a demonstrated history of working in 
 <div class="grid grid-cols-2 md:grid-cols-3 gap-4 mt-10">
    <div class="skill-item">
       <div class="skill-thumbnail flex justify-center items-center">
-         <div class="skill-border absolute top-0 left-0">
-            <img src="/images/nodejs.png" class="skill-name">
-            <img src="/images/star-5.png" class="absolute skill-level">
-         </div>
+         <img src="/images/nodejs.png" class="skill-name">
+         <img src="/images/star-5.png" class="absolute skill-level">
       </div>
       <p class="skill-title">
          NodeJS
@@ -34,10 +32,8 @@ Experienced in Full-stack development with a demonstrated history of working in 
    </div>
    <div class="skill-item">
       <div class="skill-thumbnail flex justify-center items-center">
-         <div class="skill-border absolute top-0 left-0">
-            <img src="/images/reactjs.png" class="skill-name">
-            <img src="/images/star-5.png" class="absolute skill-level">
-         </div>
+         <img src="/images/reactjs.png" class="skill-name">
+         <img src="/images/star-5.png" class="absolute skill-level">
       </div>
       <p class="skill-title">
          ReactJS
@@ -45,10 +41,8 @@ Experienced in Full-stack development with a demonstrated history of working in 
    </div>
    <div class="skill-item">
       <div class="skill-thumbnail flex justify-center items-center">
-         <div class="skill-border absolute top-0 left-0">
-            <img src="/images/mongodb.png" class="skill-name">
-            <img src="/images/star-5.png" class="absolute skill-level">
-         </div>
+         <img src="/images/mongodb.png" class="skill-name">
+         <img src="/images/star-5.png" class="absolute skill-level">
       </div>
       <p class="skill-title">
          MongoDB
@@ -56,10 +50,8 @@ Experienced in Full-stack development with a demonstrated history of working in 
    </div>
    <div class="skill-item">
       <div class="skill-thumbnail flex justify-center items-center">
-         <div class="skill-border absolute top-0 left-0">
-            <img src="/images/django.png" class="skill-name">
-            <img src="/images/star-3.png" class="absolute skill-level">
-         </div>
+         <img src="/images/django.png" class="skill-name">
+         <img src="/images/star-3.png" class="absolute skill-level">
       </div>
       <p class="skill-title">
          Django
@@ -67,10 +59,8 @@ Experienced in Full-stack development with a demonstrated history of working in 
    </div>
    <div class="skill-item">
       <div class="skill-thumbnail flex justify-center items-center">
-         <div class="skill-border absolute top-0 left-0">
-            <img src="/images/google-apps-script.svg" class="skill-name">
-            <img src="/images/star-4.png" class="absolute skill-level">
-         </div>
+         <img src="/images/google-apps-script.svg" class="skill-name">
+         <img src="/images/star-4.png" class="absolute skill-level">
       </div>
       <p class="skill-title">
          Google Script
@@ -78,10 +68,8 @@ Experienced in Full-stack development with a demonstrated history of working in 
    </div>
    <div class="skill-item">
       <div class="skill-thumbnail flex justify-center items-center">
-         <div class="skill-border absolute top-0 left-0">
-            <img src="/images/docker.png" class="skill-name">
-            <img src="/images/star-4.png" class="absolute skill-level">
-         </div>
+         <img src="/images/docker.png" class="skill-name">
+         <img src="/images/star-4.png" class="absolute skill-level">
       </div>
       <p class="skill-title">
          Docker
@@ -89,10 +77,8 @@ Experienced in Full-stack development with a demonstrated history of working in 
    </div>
    <div class="skill-item">
       <div class="skill-thumbnail flex justify-center items-center">
-         <div class="skill-border absolute top-0 left-0">
-            <img src="/images/redis.png" class="skill-name">
-            <img src="/images/star-4.png" class="absolute skill-level">
-         </div>
+         <img src="/images/redis.png" class="skill-name">
+         <img src="/images/star-4.png" class="absolute skill-level">
       </div>
       <p class="skill-title">
          Redis
@@ -100,10 +86,8 @@ Experienced in Full-stack development with a demonstrated history of working in 
    </div>
    <div class="skill-item">
       <div class="skill-thumbnail flex justify-center items-center">
-         <div class="skill-border absolute top-0 left-0">
-            <img src="/images/microservice.png" class="skill-name">
-            <img src="/images/star-4.png" class="absolute skill-level">
-         </div>
+         <img src="/images/microservice.png" class="skill-name">
+         <img src="/images/star-4.png" class="absolute skill-level">
       </div>
       <p class="skill-title">
          Microservice
@@ -111,10 +95,8 @@ Experienced in Full-stack development with a demonstrated history of working in 
    </div>
    <div class="skill-item">
       <div class="skill-thumbnail flex justify-center items-center">
-         <div class="skill-border absolute top-0 left-0">
-            <img src="/images/unix.png" class="skill-name">
-            <img src="/images/star-4.png" class="absolute skill-level">
-         </div>
+         <img src="/images/unix.png" class="skill-name">
+         <img src="/images/star-4.png" class="absolute skill-level">
       </div>
       <p class="skill-title">
          Unix
@@ -122,10 +104,8 @@ Experienced in Full-stack development with a demonstrated history of working in 
    </div>
    <div class="skill-item">
       <div class="skill-thumbnail flex justify-center items-center">
-         <div class="skill-border absolute top-0 left-0">
-            <img src="/images/flutter.svg" class="skill-name">
-            <img src="/images/star-3.png" class="absolute skill-level">
-         </div>
+         <img src="/images/flutter.svg" class="skill-name">
+         <img src="/images/star-3.png" class="absolute skill-level">
       </div>
       <p class="skill-title">
          Flutter
@@ -133,10 +113,8 @@ Experienced in Full-stack development with a demonstrated history of working in 
    </div>
    <div class="skill-item">
       <div class="skill-thumbnail flex justify-center items-center">
-         <div class="skill-border absolute top-0 left-0">
-            <img src="/images/solidity.svg" class="skill-name">
-            <img src="/images/star-2.png" class="absolute skill-level">
-         </div>
+         <img src="/images/solidity.svg" class="skill-name">
+         <img src="/images/star-2.png" class="absolute skill-level">
       </div>
       <p class="skill-title">
          Solidity
