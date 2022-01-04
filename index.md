@@ -13,9 +13,9 @@ Experienced in Full-stack development with a demonstrated history of working in 
 > Experienced in Frontend Development with Material UI, Ant Design (React JS, Typescript)
 >
 > Develop CI/CD principles in Jenkins, Gitlab, Docker
-> 
+>
 > Outstanding software design (Figma, UXPin)
-> 
+>
 > Worked with Jira, Confluence, Redmine
 
 2. Technical Skills
@@ -136,15 +136,15 @@ Experienced in Full-stack development with a demonstrated history of working in 
 ## MY EDUCATION
 
 > __Good Bachelor’s Degree__
-> 
+>
 > _Networks & Communication_
-> 
+>
 > 2014 - 2019
 
 > __Scientific Paper in INISCOM 2019__
-> 
+>
 > _UiTiOt-Vlab: A Low Cost Physical IoTs Testbed Based on Over-The-Air Programming Approach_
-> 
+>
 > 2019
 
 ## WORK EXPERIENCE
@@ -160,7 +160,7 @@ Experienced in Full-stack development with a demonstrated history of working in 
 3. 2017 - now: __P Ltd.__ in Ho Chi Minh city
 
    > Core team member at the Single Sign On project that allows a user to log in with a single ID and password to any of several related, yet independent, software systems; and many internal systems (I can't share)
-   > 
+   >
    > Good understanding of caching, web security knownledge (https, cors, csp, owasp), testing, CI/CD, search engine, message broker, containerization, web socket, web server - nginx.
 
 And I work as a freelancer from 2016. So, feel free to take a look at my projects bellow:
