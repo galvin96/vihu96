@@ -203,7 +203,7 @@ We have many works to do.
       This project includes 2 systems:<br/><br/>
       - A dashboard to overview and manage staffs, students, classes.<br/>
       - A register class for student.<br/><br/>
-      <p>My main role is <strong>Team Leader</strong>.</p>
+      <p class="mt-4">My main role is <strong>Team Leader</strong>.</p>
    </div>
 </div>
 
@@ -213,7 +213,15 @@ We have many works to do.
 
 ![messenger_chatbot.jpg](/assets/images/projects/messenger_chatbot.jpg)
 
-Just another quiz platform on Facebook Messenger!
+I build a webhook to receive message from facebook messenger.
+
+When user interact with chatbot on the first time, they have to register their
+information to join that contest. When the contest is started, user can start their
+exam session.
+
+Chatbot can send text, image or quick reply for answering.
+
+Application record user's result and calculate, sort the scoreboard. 
 
 ***
 
@@ -229,7 +237,7 @@ I've deployed 4 LMS systems for The Children House of Dong Nai province, HoChiMi
 
 ![jeckin.jpg](/assets/images/jeckin.jpg)
 
-I've built this system for learning Django and improving Typescript skill
+Additional content for the Startup project.
 
 ***
 
