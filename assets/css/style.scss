@@ -4,30 +4,30 @@
 @import 'jekyll-theme-hacker';
 
 .skill-item {
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 .skill-thumbnail {
-    position: relative;
-    width: 156px;
-    height: 140px;
-    border: 4px solid;
-    border-radius: 10px;
+  position: relative;
+  width: 156px;
+  height: 140px;
+  border: 4px solid;
+  border-radius: 10px;
 }
 .skill-name {
-    width: 80%;
+  width: 80%;
 }
 .skill-level {
-    width: 70%;
-    bottom: -8px;
-    background-color: #151515;
-    padding: 0 10px;
+  width: 70%;
+  bottom: -8px;
+  background-color: #151515;
+  padding: 0 10px;
 }
 .skill-title {
-    text-align: center;
-    font-size: 18px;
-    font-weight: bold;
-    margin-top: 10px;
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 10px;
 }

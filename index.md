@@ -1,10 +1,14 @@
+---
+layout: default
+---
+
 # Welcome to Viet-Hung Le's home
 
 Experienced in Full-stack development with a demonstrated history of working in technology company. Strong quality assurance professional with a Bachelor of Computer Networks and Communication focused from the University of Information Technology.
 
 ## MY SKILLS
 
-1. Professional Skills
+*  Professional Skills
 
 > Experienced in Microservice Development (Node JS)
 >
@@ -18,13 +22,13 @@ Experienced in Full-stack development with a demonstrated history of working in 
 >
 > Worked with Jira, Confluence, Redmine
 
-2. Technical Skills
+*  Technical Skills
 
 <div class="grid grid-cols-2 md:grid-cols-3 gap-4 mt-10">
    <div class="skill-item">
       <div class="skill-thumbnail flex justify-center items-center">
-         <img src="/images/nodejs.png" class="skill-name">
-         <img src="/images/star-5.png" class="absolute skill-level">
+         <img src="/assets/images/nodejs.png" class="skill-name">
+         <img src="/assets/images/star-5.png" class="absolute skill-level">
       </div>
       <p class="skill-title">
          NodeJS
@@ -32,8 +36,8 @@ Experienced in Full-stack development with a demonstrated history of working in 
    </div>
    <div class="skill-item">
       <div class="skill-thumbnail flex justify-center items-center">
-         <img src="/images/reactjs.png" class="skill-name">
-         <img src="/images/star-5.png" class="absolute skill-level">
+         <img src="/assets/images/reactjs.png" class="skill-name">
+         <img src="/assets/images/star-5.png" class="absolute skill-level">
       </div>
       <p class="skill-title">
          ReactJS
@@ -41,8 +45,8 @@ Experienced in Full-stack development with a demonstrated history of working in 
    </div>
    <div class="skill-item">
       <div class="skill-thumbnail flex justify-center items-center">
-         <img src="/images/mongodb.png" class="skill-name">
-         <img src="/images/star-5.png" class="absolute skill-level">
+         <img src="/assets/images/mongodb.png" class="skill-name">
+         <img src="/assets/images/star-5.png" class="absolute skill-level">
       </div>
       <p class="skill-title">
          MongoDB
@@ -50,8 +54,8 @@ Experienced in Full-stack development with a demonstrated history of working in 
    </div>
    <div class="skill-item">
       <div class="skill-thumbnail flex justify-center items-center">
-         <img src="/images/django.png" class="skill-name">
-         <img src="/images/star-3.png" class="absolute skill-level">
+         <img src="/assets/images/django.png" class="skill-name">
+         <img src="/assets/images/star-3.png" class="absolute skill-level">
       </div>
       <p class="skill-title">
          Django
@@ -59,8 +63,8 @@ Experienced in Full-stack development with a demonstrated history of working in 
    </div>
    <div class="skill-item">
       <div class="skill-thumbnail flex justify-center items-center">
-         <img src="/images/google-apps-script.svg" class="skill-name">
-         <img src="/images/star-4.png" class="absolute skill-level">
+         <img src="/assets/images/google-apps-script.svg" class="skill-name">
+         <img src="/assets/images/star-4.png" class="absolute skill-level">
       </div>
       <p class="skill-title">
          Google Script
@@ -68,8 +72,8 @@ Experienced in Full-stack development with a demonstrated history of working in 
    </div>
    <div class="skill-item">
       <div class="skill-thumbnail flex justify-center items-center">
-         <img src="/images/docker.png" class="skill-name">
-         <img src="/images/star-4.png" class="absolute skill-level">
+         <img src="/assets/images/docker.png" class="skill-name">
+         <img src="/assets/images/star-4.png" class="absolute skill-level">
       </div>
       <p class="skill-title">
          Docker
@@ -77,8 +81,8 @@ Experienced in Full-stack development with a demonstrated history of working in 
    </div>
    <div class="skill-item">
       <div class="skill-thumbnail flex justify-center items-center">
-         <img src="/images/redis.png" class="skill-name">
-         <img src="/images/star-4.png" class="absolute skill-level">
+         <img src="/assets/images/redis.png" class="skill-name">
+         <img src="/assets/images/star-4.png" class="absolute skill-level">
       </div>
       <p class="skill-title">
          Redis
@@ -86,8 +90,8 @@ Experienced in Full-stack development with a demonstrated history of working in 
    </div>
    <div class="skill-item">
       <div class="skill-thumbnail flex justify-center items-center">
-         <img src="/images/microservice.png" class="skill-name">
-         <img src="/images/star-4.png" class="absolute skill-level">
+         <img src="/assets/images/microservice.png" class="skill-name">
+         <img src="/assets/images/star-4.png" class="absolute skill-level">
       </div>
       <p class="skill-title">
          Microservice
@@ -95,8 +99,8 @@ Experienced in Full-stack development with a demonstrated history of working in 
    </div>
    <div class="skill-item">
       <div class="skill-thumbnail flex justify-center items-center">
-         <img src="/images/unix.png" class="skill-name">
-         <img src="/images/star-4.png" class="absolute skill-level">
+         <img src="/assets/images/unix.png" class="skill-name">
+         <img src="/assets/images/star-4.png" class="absolute skill-level">
       </div>
       <p class="skill-title">
          Unix
@@ -104,8 +108,8 @@ Experienced in Full-stack development with a demonstrated history of working in 
    </div>
    <div class="skill-item">
       <div class="skill-thumbnail flex justify-center items-center">
-         <img src="/images/flutter.svg" class="skill-name">
-         <img src="/images/star-3.png" class="absolute skill-level">
+         <img src="/assets/images/flutter.svg" class="skill-name">
+         <img src="/assets/images/star-3.png" class="absolute skill-level">
       </div>
       <p class="skill-title">
          Flutter
@@ -113,8 +117,8 @@ Experienced in Full-stack development with a demonstrated history of working in 
    </div>
    <div class="skill-item">
       <div class="skill-thumbnail flex justify-center items-center">
-         <img src="/images/solidity.svg" class="skill-name">
-         <img src="/images/star-2.png" class="absolute skill-level">
+         <img src="/assets/images/solidity.svg" class="skill-name">
+         <img src="/assets/images/star-2.png" class="absolute skill-level">
       </div>
       <p class="skill-title">
          Solidity
@@ -146,7 +150,7 @@ Experienced in Full-stack development with a demonstrated history of working in 
 
    > Contributed the landing page for promotion the 123cam, SmartPager project.
 
-3. 2017 - now: __P Ltd.__ in Ho Chi Minh city
+3. 2017 - 2022: __P Ltd.__ in Ho Chi Minh city
 
    > Core team member at the Single Sign On project that allows a user to log in with a single ID and password to any of several related, yet independent, software systems; and many internal systems (I can't share)
    >
@@ -154,23 +158,19 @@ Experienced in Full-stack development with a demonstrated history of working in 
 
 And I work as a freelancer from 2016. So, feel free to take a look at my projects bellow:
 
-## MY PROJECTS
-
-***
-
 ### Video on Demand
 
-YouthDev Co,Ltd is one of professional companies of technology in Vietnam. We communicate via Slack; assign and manage task under Agile methodology base on redmine; only focus on developing with CI/CD; implement new feature while in fix current version with Git.
+<div class="grid gap-10 grid-cols-1 md:grid-cols-2">
+   <img src="/assets/images/projects/ondemand1.jpeg" alt="ondemand viet 1" loading="lazy"/>
+   <p class="flex items-center">YouthDev Co,Ltd is one of professional companies of technology in Vietnam. We communicate via Slack; assign and manage task under Agile methodology base on redmine; only focus on developing with CI/CD; implement new feature while in fix current version with Git.</p>
+   <p class="flex items-center">OnDemandViet is a dedicated video platform which created base on many high top world technologies to provide adaptive video streaming, large scalable video storage and high available system with multiple dedicated server and a complex SMS registration, subscription services.</p>
+   <img src="/assets/images/projects/ondemand2.jpeg" alt="ondemand viet 2" loading="lazy"/>
+</div>
 
-![on demand 1](/images/projects/ondemand1.jpeg)
-
-OnDemandViet is a dedicated video platform which created base on many high top world technologies to provide adaptive video streaming, large scalable video storage and high available system with multiple dedicated server and a complex SMS registration, subscription services.
-
-My main role in this project is Web/Animation Developer.
-
-![on demand 2](/images/projects/ondemand2.jpeg)
-
-The staging site: http://vimai.escondido.dev.vimai.io/
+<p class="my-4">
+   My main role in this project is Web/Animation Developer. <br/>
+   The staging site: <a href="http://vimai.escondido.dev.vimai.io/" target="_blank">http://vimai.escondido.dev.vimai.io/</a>
+</p>
 
 ***
 
@@ -178,37 +178,40 @@ The staging site: http://vimai.escondido.dev.vimai.io/
 
 We have many works to do.
 
-First, we develop a smart contract which follow ERC20, was deployed onto Binance Smart Chain.
-
-Second, we build an application allow user interact with smart contract through web3.js to deposit, withdraw and claim their token. Besides, user must connect Telegram channel, Twitter and join Discord server before accessing our events.
-
-Thirst, we build a high load system which can serve 30K CCU. Our tactics are deployed on the cloud of AWS system. We are using terraform for scaling number of instances and auto deploy. Next, we write an ansible script for updating new app onto all.
-
-My main role is Project Manager/Web Engineer
-
-![launch pad](/images/projects/launch-pad.jpeg)
-
-The staging site: https://tame.defihorse.com/
+<div class="grid gap-10 grid-cols-1 md:grid-cols-2 mt-4">
+   <div>
+      First, we develop a smart contract which follow ERC20, was deployed onto Binance Smart Chain. <br/><br/>
+      Second, we build an application allow user interact with smart contract through web3.js to deposit, withdraw and claim their token. Besides, user must connect Telegram channel, Twitter and join Discord server before accessing our events.<br/><br/>
+      Thirst, we build a high load system which can serve 30K CCU. Our tactics are deployed on the cloud of AWS system. We are using terraform for scaling number of instances and auto deploy. Next, we write an ansible script for updating new app onto all.<br/><br/>
+   </div>
+   <div>
+      <img src="/assets/images/projects/launch-pad.jpeg" alt="lauch pad for dapp" loading="lazy"/>
+      <div class="mt-4">
+         My main role is <strong>Team Leader/Web Engineer</strong><br/>
+         The staging site: <a href="https://tame.defihorse.com/" target="_blank">https://tame.defihorse.com/</a>
+      </div>
+   </div>
+</div>
 
 ***
 
 ### System Management for English Centre (NodeJS, ReactJS)
 
-![Talkfirst-1.jpg](/images/projects/Talkfirst-1.jpg)
-
-This project includes 2 systems:
-
-- A dashboard to overview and manage staffs, students, classes.
-
-- A register class for student.
-
-My main role is Project Manager.
+<div class="grid gap-10 grid-cols-1 md:grid-cols-2 my-4">
+   <img src="/assets/images/projects/Talkfirst-1.jpg" alt="talkfirst centre" loading="lazy"/>
+   <div class="flex flex-col justify-center">
+      This project includes 2 systems:<br/><br/>
+      - A dashboard to overview and manage staffs, students, classes.<br/>
+      - A register class for student.<br/><br/>
+      <p>My main role is <strong>Team Leader</strong>.</p>
+   </div>
+</div>
 
 ***
 
 ### Messenger Chatbot (NodeJS)
 
-![messenger_chatbot.jpg](/images/projects/messenger_chatbot.jpg)
+![messenger_chatbot.jpg](/assets/images/projects/messenger_chatbot.jpg)
 
 Just another quiz platform on Facebook Messenger!
 
@@ -216,7 +219,7 @@ Just another quiz platform on Facebook Messenger!
 
 ### Learning Management System (Moodle)
 
-![dong_nai_que_huong_em.jpg](/images/projects/dong_nai_que_huong_em.jpg)
+![dong_nai_que_huong_em.jpg](/assets/images/projects/dong_nai_que_huong_em.jpg)
 
 I've deployed 4 LMS systems for The Children House of Dong Nai province, HoChiMinh Communist Youth Union of Ho Chi Minh city, Vietnam Youth Federation of Ho Chi Minh city and HoChiMinh Communist Youth Union of School of Management - University of Economics Ho Chi Minh City. All of systems provide an platform of online contest with a variaty of the question types, serve large amount of traffic at the same time.
 
@@ -224,7 +227,7 @@ I've deployed 4 LMS systems for The Children House of Dong Nai province, HoChiMi
 
 ### Jeckin (Django, Typescript)
 
-![jeckin.jpg](/images/jeckin.jpg)
+![jeckin.jpg](/assets/images/jeckin.jpg)
 
 I've built this system for learning Django and improving Typescript skill
 
