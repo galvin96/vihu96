@@ -2,17 +2,13 @@
 layout: default
 ---
 
-# Viet-Hung Le
-
-## ABOUT ME
-
 Experienced full-stack developer with a focus on innovation, architecture and properly designed software. Interested in blockchain, scalable distributed systems, service oriented architecture and messaging middleware. I am a leadership, friendly, informal and open minded person.
 
-## MY SKILLS
+# MY SKILLS
 
-###  TECHNICAL SKILLS
+##  TECHNICAL SKILLS
 
-#### Languages
+### Languages
 
 <div class="grid grid-cols-2 md:grid-cols-3 gap-4 mt-10">
    <div class="skill-item">
@@ -89,7 +85,7 @@ Experienced full-stack developer with a focus on innovation, architecture and pr
    </div>
 </div>
 
-#### Database Engine
+### Database Engine
 
 <div class="grid grid-cols-2 md:grid-cols-3 gap-4 mt-10">
    <div class="skill-item">
@@ -101,9 +97,18 @@ Experienced full-stack developer with a focus on innovation, architecture and pr
          MongoDB
       </p>
    </div>
+   <div class="skill-item">
+      <div class="skill-thumbnail flex justify-center items-center">
+         <img src="/assets/images/postgres.png" class="skill-name">
+         <img src="/assets/images/star-4.png" class="absolute skill-level">
+      </div>
+      <p class="skill-title">
+         PostgresDB
+      </p>
+   </div>
 </div>
 
-#### Tools
+### Tools
 
 <div class="grid grid-cols-2 md:grid-cols-3 gap-4 mt-10">
    <div class="skill-item">
@@ -135,17 +140,17 @@ Experienced full-stack developer with a focus on innovation, architecture and pr
    </div>
 </div>
 
-#### Bonus
+### Bonus
 
-> Experienced in Frontend Development with many frameworks (Material UI, Ant Design)
->
-> Experienced in working with Git, Github, Gitlab, CI/CD, Jenkins.
->
-> Working closely with designers, use semantic mark-up language like HTML/CSS to turn static Figma/UX Pin/Photoshop designs into browser-based web and application pages
->
-> Experienced in agile development methodologies using best practice tools such as Jira, Confluence and Redmine.
+1. Experienced in Frontend Development with many frameworks (Material UI, Ant Design, TailwindCSS)
 
-### SOFT SKILL
+2. Experienced in working with Git, Github, Gitlab, CI/CD, Jenkins.
+
+3. Working closely with designers, use semantic mark-up language like HTML/CSS to turn static Figma/UX Pin/Photoshop designs into browser-based web and application pages
+
+4. Experienced in agile development methodologies using best practice tools such as Jira, Confluence and Redmine.
+
+## SOFT SKILL
 
 * Leadership
 
@@ -167,27 +172,27 @@ Give myself enough time, enough chances to make errors, and fix them. Sometimes 
 
 My ability to be a critical thinker will allow me to assess those solutions and select the one that will work the best.
 
-## EDUCATION
+# EDUCATION
 
-> __Good Bachelor’s Degree__
->
+1. __Good Bachelor’s Degree__
+
 > _Networks & Communication_
 >
 > 2014 - 2019
 
-> __Scientific Paper in INISCOM 2019__
->
+2. __Scientific Paper in INISCOM 2019__
+
 > _UiTiOt-Vlab: A Low Cost Physical IoTs Testbed Based on Over-The-Air Programming Approach_
 >
 > 2019
 
-> __Fundamental of Machine Learning certificate 2019__
-> 
+3. __Fundamental of Machine Learning certificate 2019__
+
 > Computer Science Center - Ho Chi Minh City University of Science
 > 
 > 2019
 
-## WORK EXPERIENCE
+# WORK EXPERIENCE
 
 1. 2015 - 2018: __President of UIT’s Student Council__ at UIT-VNU  /  Ho Chi Minh City
 
@@ -207,10 +212,11 @@ My ability to be a critical thinker will allow me to assess those solutions and 
 
 4. 2022 - now: __Junior Software Engineer__ at CoincuLabs / Ho Chi Minh City
 
-
 And I work as a freelancer from 2016. So, feel free to take a look at my projects bellow:
 
-### Video on Demand
+
+
+## Video on Demand
 
 <div class="grid gap-10 grid-cols-1 md:grid-cols-2">
    <img src="/assets/images/projects/ondemand1.jpeg" alt="ondemand viet 1" loading="lazy"/>
@@ -226,7 +232,7 @@ And I work as a freelancer from 2016. So, feel free to take a look at my project
 
 ***
 
-### Launch pad for Dapp
+## Launch pad for Dapp
 
 We have many works to do.
 
@@ -247,7 +253,7 @@ We have many works to do.
 
 ***
 
-### System Management for English Centre (NodeJS, ReactJS)
+## System Management for English Centre (NodeJS, ReactJS)
 
 <div class="grid gap-10 grid-cols-1 md:grid-cols-2 my-4">
    <img src="/assets/images/projects/Talkfirst-1.jpg" alt="talkfirst centre" loading="lazy"/>
@@ -261,15 +267,15 @@ We have many works to do.
 
 ***
 
-### Messenger Chatbot (NodeJS)
+## Messenger Chatbot (NodeJS)
 
 <div class="grid gap-10 grid-cols-1 md:grid-cols-2 my-4">
    <div class="flex flex-col justify-center">
-- I build a webhook to receive message from facebook messenger.
+- I build a webhook to receive message from facebook messenger.<br/>
 - When user interact with chatbot on the first time, they have to register their
 information to join that contest. When the contest is started, user can start their
-exam session.
-- Chatbot can send text, image or quick reply for answering.
+exam session.<br/>
+- Chatbot can send text, image or quick reply for answering.<br/>
 - Application record user's result and calculate, sort the scoreboard.
       <p class="mt-4">My main role is <strong>Project Owner</strong>.</p>
    </div>
@@ -278,7 +284,7 @@ exam session.
 
 ***
 
-### Learning Management System (Moodle)
+## Learning Management System (Moodle)
 
 <div class="grid gap-10 grid-cols-1 md:grid-cols-2 my-4">
    <img src="/assets/images/projects/dong_nai_que_huong_em.jpg" alt="Moodle system" loading="lazy"/>
@@ -290,14 +296,14 @@ I've deployed 4 LMS systems for The Children House of Dong Nai province, HoChiMi
 
 ***
 
-### Jeckin (Django, Typescript)
+## Jeckin (Django, Typescript)
 
 <div class="grid gap-10 grid-cols-1 md:grid-cols-2 my-4">
    <div class="flex flex-col justify-center">
-I start this project in the hope to build a valuable startup.
+I start this project in the hope to build a valuable startup.<br/>
 I worked with 1 designer and 1 frontend developer with ideas about set the schedule and allow user register event to participate in and pitched to some university in Ho Chi Minh City first.
-Unfortunately, Covid-19 became and all events (online or offline) weren't able to organized, and decided to leave the program.
-More importantly, I realized that forcing me to find a valuable idea.
+Unfortunately, Covid-19 became and all events (online or offline) weren't able to organized, and decided to leave the program.<br/>
+More importantly, I realized that forcing me to find a valuable idea.<br/>
 I will comeback and bring it to students and many types of audience.
       <p class="mt-4">My main role is <strong>Project Owner</strong>.</p>
    </div>
@@ -306,9 +312,9 @@ I will comeback and bring it to students and many types of audience.
 
 ***
 
-## VOLUNTEER
+# VOLUNTEER
 
-## REFERENCES
+# REFERENCES
 
 __Tran Hoai-Nam / Line Manager__
 
