@@ -143,16 +143,13 @@ Experienced full-stack developer with a focus on innovation, architecture and pr
 ### Bonus
 
 1. Experienced in Frontend Development with many frameworks (Material UI, Ant Design, TailwindCSS)
-
-2. Experienced in working with Git, Github, Gitlab, CI/CD, Jenkins.
-
+2. Experienced in working with Git, Github, Gitlab, CI/CD, Jenkins, Vercel.
 3. Working closely with designers, use semantic mark-up language like HTML/CSS to turn static Figma/UX Pin/Photoshop designs into browser-based web and application pages
-
 4. Experienced in agile development methodologies using best practice tools such as Jira, Confluence and Redmine.
 
 ## SOFT SKILL
 
-* Leadership
+`Leadership`
 
 President of Vietnamese Students’ Association of The University of Information Technology-VNU.
 
@@ -160,15 +157,15 @@ Commander of Green Summer Volunteer Campaign
 
 Commander of Spring Volunteer Campaign
 
-* Project management
+`Project management`
 
 Agile Methodology by YouthDev Co,.Ltd experience.
 
-* Patient
+`Patient`
 
 Give myself enough time, enough chances to make errors, and fix them. Sometimes people will need more convincing, I will need to do my best to “sell” them my idea or approach.
 
-* Critical Thinking
+`Critical Thinking`
 
 My ability to be a critical thinker will allow me to assess those solutions and select the one that will work the best.
 
