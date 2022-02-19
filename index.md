@@ -2,27 +2,17 @@
 layout: default
 ---
 
-# Welcome to Viet-Hung Le's home
+# Viet-Hung Le
 
-Experienced in Full-stack development with a demonstrated history of working in technology company. Strong quality assurance professional with a Bachelor of Computer Networks and Communication focused from the University of Information Technology.
+## ABOUT ME
+
+Experienced full-stack developer with a focus on innovation, architecture and properly designed software. Interested in blockchain, scalable distributed systems, service oriented architecture and messaging middleware. I am a leadership, friendly, informal and open minded person.
 
 ## MY SKILLS
 
-*  Professional Skills
+###  TECHNICAL SKILLS
 
-> Experienced in Microservice Development (Node JS)
->
-> Experienced in Backend Development with NodeJS, Django
->
-> Experienced in Frontend Development with Material UI, Ant Design (React JS, Typescript)
->
-> Develop CI/CD principles in Jenkins, Gitlab, Docker
->
-> Outstanding software design (Figma, UXPin)
->
-> Worked with Jira, Confluence, Redmine
-
-*  Technical Skills
+#### Languages
 
 <div class="grid grid-cols-2 md:grid-cols-3 gap-4 mt-10">
    <div class="skill-item">
@@ -45,11 +35,11 @@ Experienced in Full-stack development with a demonstrated history of working in 
    </div>
    <div class="skill-item">
       <div class="skill-thumbnail flex justify-center items-center">
-         <img src="/assets/images/mongodb.png" class="skill-name">
-         <img src="/assets/images/star-5.png" class="absolute skill-level">
+         <img src="/assets/images/typescript.png" class="skill-name">
+         <img src="/assets/images/star-4.png" class="absolute skill-level">
       </div>
       <p class="skill-title">
-         MongoDB
+         Typescript
       </p>
    </div>
    <div class="skill-item">
@@ -68,33 +58,6 @@ Experienced in Full-stack development with a demonstrated history of working in 
       </div>
       <p class="skill-title">
          Google Script
-      </p>
-   </div>
-   <div class="skill-item">
-      <div class="skill-thumbnail flex justify-center items-center">
-         <img src="/assets/images/docker.png" class="skill-name">
-         <img src="/assets/images/star-4.png" class="absolute skill-level">
-      </div>
-      <p class="skill-title">
-         Docker
-      </p>
-   </div>
-   <div class="skill-item">
-      <div class="skill-thumbnail flex justify-center items-center">
-         <img src="/assets/images/redis.png" class="skill-name">
-         <img src="/assets/images/star-4.png" class="absolute skill-level">
-      </div>
-      <p class="skill-title">
-         Redis
-      </p>
-   </div>
-   <div class="skill-item">
-      <div class="skill-thumbnail flex justify-center items-center">
-         <img src="/assets/images/microservice.png" class="skill-name">
-         <img src="/assets/images/star-4.png" class="absolute skill-level">
-      </div>
-      <p class="skill-title">
-         Microservice
       </p>
    </div>
    <div class="skill-item">
@@ -126,7 +89,85 @@ Experienced in Full-stack development with a demonstrated history of working in 
    </div>
 </div>
 
-## MY EDUCATION
+#### Database Engine
+
+<div class="grid grid-cols-2 md:grid-cols-3 gap-4 mt-10">
+   <div class="skill-item">
+      <div class="skill-thumbnail flex justify-center items-center">
+         <img src="/assets/images/mongodb.png" class="skill-name">
+         <img src="/assets/images/star-5.png" class="absolute skill-level">
+      </div>
+      <p class="skill-title">
+         MongoDB
+      </p>
+   </div>
+</div>
+
+#### Tools
+
+<div class="grid grid-cols-2 md:grid-cols-3 gap-4 mt-10">
+   <div class="skill-item">
+      <div class="skill-thumbnail flex justify-center items-center">
+         <img src="/assets/images/docker.png" class="skill-name">
+         <img src="/assets/images/star-4.png" class="absolute skill-level">
+      </div>
+      <p class="skill-title">
+         Docker
+      </p>
+   </div>
+   <div class="skill-item">
+      <div class="skill-thumbnail flex justify-center items-center">
+         <img src="/assets/images/microservice.png" class="skill-name">
+         <img src="/assets/images/star-4.png" class="absolute skill-level">
+      </div>
+      <p class="skill-title">
+         Microservice
+      </p>
+   </div>
+   <div class="skill-item">
+      <div class="skill-thumbnail flex justify-center items-center">
+         <img src="/assets/images/redis.png" class="skill-name">
+         <img src="/assets/images/star-4.png" class="absolute skill-level">
+      </div>
+      <p class="skill-title">
+         Redis
+      </p>
+   </div>
+</div>
+
+#### Bonus
+
+> Experienced in Frontend Development with many frameworks (Material UI, Ant Design)
+>
+> Experienced in working with Git, Github, Gitlab, CI/CD, Jenkins.
+>
+> Working closely with designers, use semantic mark-up language like HTML/CSS to turn static Figma/UX Pin/Photoshop designs into browser-based web and application pages
+>
+> Experienced in agile development methodologies using best practice tools such as Jira, Confluence and Redmine.
+
+### SOFT SKILL
+
+* Leadership
+
+President of Vietnamese Students’ Association of The University of Information Technology-VNU.
+
+Commander of Green Summer Volunteer Campaign
+
+Commander of Spring Volunteer Campaign
+
+* Project management
+
+Agile Methodology by YouthDev Co,.Ltd experience.
+
+* Patient
+
+Give myself enough time, enough chances to make errors, and fix them. Sometimes people will need more convincing, I will need to do my best to “sell” them my idea or approach.
+
+* Critical Thinking
+
+My ability to be a critical thinker will allow me to assess those solutions and select the one that will work the best.
+
+## EDUCATION
 
 > __Good Bachelor’s Degree__
 >
@@ -140,6 +181,12 @@ Experienced in Full-stack development with a demonstrated history of working in 
 >
 > 2019
 
+> __Fundamental of Machine Learning certificate 2019__
+> 
+> Computer Science Center - Ho Chi Minh City University of Science
+> 
+> 2019
+
 ## WORK EXPERIENCE
 
 1. 2015 - 2018: __President of UIT’s Student Council__ at UIT-VNU  /  Ho Chi Minh City
@@ -148,13 +195,18 @@ Experienced in Full-stack development with a demonstrated history of working in 
 
 2. 2016 - 2017: __Fresher Software Engineer__ at VNG Company  /  Ho Chi Minh City
 
-   > Contributed the landing page for promotion the 123cam, SmartPager project.
+   > Member of a high productive team to develop the landing page for promotion SmartPager project.
+   > 
+   > Development of the visualization module (JavaScript, HTML, SCSS) of Camera monitoring system.
 
 3. 2017 - 2022: __P Ltd.__ in Ho Chi Minh city
 
    > Core team member at the Single Sign On project that allows a user to log in with a single ID and password to any of several related, yet independent, software systems; and many internal systems (I can't share)
    >
    > Good understanding of caching, web security knownledge (https, cors, csp, owasp), testing, CI/CD, search engine, message broker, containerization, web socket, web server - nginx.
+
+4. 2022 - now: __Junior Software Engineer__ at CoincuLabs / Ho Chi Minh City
+
 
 And I work as a freelancer from 2016. So, feel free to take a look at my projects bellow:
 
@@ -211,35 +263,50 @@ We have many works to do.
 
 ### Messenger Chatbot (NodeJS)
 
-![messenger_chatbot.jpg](/assets/images/projects/messenger_chatbot.jpg)
-
-I build a webhook to receive message from facebook messenger.
-
-When user interact with chatbot on the first time, they have to register their
+<div class="grid gap-10 grid-cols-1 md:grid-cols-2 my-4">
+   <div class="flex flex-col justify-center">
+- I build a webhook to receive message from facebook messenger.
+- When user interact with chatbot on the first time, they have to register their
 information to join that contest. When the contest is started, user can start their
 exam session.
-
-Chatbot can send text, image or quick reply for answering.
-
-Application record user's result and calculate, sort the scoreboard. 
+- Chatbot can send text, image or quick reply for answering.
+- Application record user's result and calculate, sort the scoreboard.
+      <p class="mt-4">My main role is <strong>Project Owner</strong>.</p>
+   </div>
+   <img src="/assets/images/projects/messenger_chatbot.jpg" alt="messenger chatbot" loading="lazy"/>
+</div>
 
 ***
 
 ### Learning Management System (Moodle)
 
-![dong_nai_que_huong_em.jpg](/assets/images/projects/dong_nai_que_huong_em.jpg)
-
+<div class="grid gap-10 grid-cols-1 md:grid-cols-2 my-4">
+   <img src="/assets/images/projects/dong_nai_que_huong_em.jpg" alt="Moodle system" loading="lazy"/>
+   <div class="flex flex-col justify-center">
 I've deployed 4 LMS systems for The Children House of Dong Nai province, HoChiMinh Communist Youth Union of Ho Chi Minh city, Vietnam Youth Federation of Ho Chi Minh city and HoChiMinh Communist Youth Union of School of Management - University of Economics Ho Chi Minh City. All of systems provide an platform of online contest with a variaty of the question types, serve large amount of traffic at the same time.
+      <p class="mt-4">My main role is <strong>Project Owner</strong>.</p>
+   </div>
+</div>
 
 ***
 
 ### Jeckin (Django, Typescript)
 
-![jeckin.jpg](/assets/images/jeckin.jpg)
-
-Additional content for the Startup project.
+<div class="grid gap-10 grid-cols-1 md:grid-cols-2 my-4">
+   <div class="flex flex-col justify-center">
+I start this project in the hope to build a valuable startup.
+I worked with 1 designer and 1 frontend developer with ideas about set the schedule and allow user register event to participate in and pitched to some university in Ho Chi Minh City first.
+Unfortunately, Covid-19 became and all events (online or offline) weren't able to organized, and decided to leave the program.
+More importantly, I realized that forcing me to find a valuable idea.
+I will comeback and bring it to students and many types of audience.
+      <p class="mt-4">My main role is <strong>Project Owner</strong>.</p>
+   </div>
+   <img src="/assets/images/jeckin.jpg" alt="jecken" loading="lazy"/>
+</div>
 
 ***
+
+## VOLUNTEER
 
 ## REFERENCES
 
