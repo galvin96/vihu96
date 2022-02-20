@@ -205,13 +205,13 @@ My ability to be a critical thinker will allow me to assess those solutions and 
 
    > Core team member at the Single Sign On project that allows a user to log in with a single ID and password to any of several related, yet independent, software systems; and many internal systems (I can't share)
    >
-   > Good understanding of caching, web security knownledge (https, cors, csp, owasp), testing, CI/CD, search engine, message broker, containerization, web socket, web server - nginx.
+   > Good understanding of caching (redis), web security (https, cors, csp, owasp), testing, CI/CD, search engine, message broker, containerization, web socket, web server (nginx).
 
 4. 2022 - now: __Junior Software Engineer__ at CoincuLabs / Ho Chi Minh City
 
 And I work as a freelancer from 2016. So, feel free to take a look at my projects bellow:
 
-
+***
 
 ## Video on Demand
 
@@ -311,13 +311,32 @@ I will comeback and bring it to students and many types of audience.
 
 # VOLUNTEER
 
+## Review vaccinated information application
+
+1. When the citizen submitted a certificate of vaccination, a large amount of files must be reviewed.
+We build an application which receive certificate and distribute to our volunteer to review information
+and confirm for synchronizing data onto national database.
+   
+2. In addition, we build an application which the patients can declare their health condition on
+and the local medical facilities will monitor and support in time.
+
+My main role is __Developer__
+
+## The martyrs' information management system (conduct at Ho Chi Minh City Martyrs Cemetery)
+
+The project came into operation on July 26, 2017 so that families, soldier comrades, visitors, etc. can directly look up search information and print a map to guide the way to the graves.
+The work digitizes about 14,300 martyrs' tombstones at the Martyrs' Cemetery in Ho Chi Minh City.
+This is the first time that the list of martyrs of the Ho Chi Minh City Martyrs Cemetery has been widely published on the Internet instead of only serving internal management as before.
+
+My main role is __Project Leader__
+
 # REFERENCES
 
-__Tran Hoai-Nam / Line Manager__
+__Hoai-Nam Tran / Line Manager__
 
 _Senior Software Engineer_
 
-__Le Trung-Quan / Assoc. Prof.__
+__Trung-Quan Le / Prof.__
 
 _Faculty of Computer Networks & Communications, Dean_
 
