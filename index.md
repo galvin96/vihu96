@@ -328,7 +328,9 @@ The project came into operation on July 26, 2017 so that families, soldier comra
 The work digitizes about 14,300 martyrs' tombstones at the Martyrs' Cemetery in Ho Chi Minh City.
 This is the first time that the list of martyrs of the Ho Chi Minh City Martyrs Cemetery has been widely published on the Internet instead of only serving internal management as before.
 
-My main role is __Project Leader__
+This project is still on https://tphcm.anhhunglietsi.vn/
+
+My main role is __Project Manager__
 
 # REFERENCES
 
