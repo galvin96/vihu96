@@ -212,7 +212,7 @@ My ability to be a critical thinker will allow me to assess those solutions and 
 
 3. 2017 - 2022: __P Ltd.__ in Ho Chi Minh city
 
-   > Core team member at the Single Sign On project that allows a user to log in with a single ID and password to any of several related, yet independent, software systems; and many internal systems (I can't share)
+   > Core team member at the Single Sign On project that allows a user to log in with a single ID and password to any of several related, yet independent, software systems; and many internal systems.
    >
    > Good understanding of caching (redis), web security (https, cors, csp, owasp), testing, CI/CD, search engine, message broker, containerization, web socket, web server (nginx).
 
