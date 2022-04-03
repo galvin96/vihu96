@@ -329,6 +329,18 @@ I will comeback and bring it to students and many types of audience.
 
 ***
 
+## Crossword Puzzle
+
+This project uses Microsoft Office PowerPoint with Macro-enabled.
+
+My main role is <strong>Project Owner</strong>.
+
+<br/>
+![Crossword Puzzle](/assets/images/projects/crossword-puzzle.jpg "Crossword Puzzle")
+<br/>
+
+***
+
 # VOLUNTEER
 
 ## Review vaccinated information application
