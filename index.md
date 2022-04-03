@@ -147,6 +147,8 @@ Experienced full-stack developer with a focus on innovation, architecture and pr
 3. Working closely with designers, use semantic mark-up language like HTML/CSS to turn static Figma/UX Pin/Photoshop designs into browser-based web and application pages
 4. Experienced in agile development methodologies using best practice tools such as Jira, Confluence and Redmine.
 
+<br/>
+
 ## SOFT SKILL
 
 `Leadership`
@@ -157,17 +159,22 @@ Commander of Green Summer Volunteer Campaign
 
 Commander of Spring Volunteer Campaign
 
+<br/>
 `Project management`
 
 Agile Methodology by YouthDev Co,.Ltd experience.
 
+<br/>
 `Patient`
 
 Give myself enough time, enough chances to make errors, and fix them. Sometimes people will need more convincing, I will need to do my best to “sell” them my idea or approach.
 
+<br/>
 `Critical Thinking`
 
 My ability to be a critical thinker will allow me to assess those solutions and select the one that will work the best.
+
+<br/>
 
 # EDUCATION
 
@@ -188,6 +195,8 @@ My ability to be a critical thinker will allow me to assess those solutions and 
 > Computer Science Center - Ho Chi Minh City University of Science
 > 
 > 2019
+
+<br/>
 
 # WORK EXPERIENCE
 
