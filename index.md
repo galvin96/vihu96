@@ -318,6 +318,19 @@ I will comeback and bring it to students and many types of audience.
 
 ***
 
+## Pre-Wedding
+
+<div class="grid gap-10 grid-cols-1 md:grid-cols-2 my-4">
+   <img src="/assets/images/projects/wedding.jpg" alt="wedding" loading="lazy"/>
+   <div class="flex flex-col justify-center">
+      This project uses NextJs and Google App Script to get invitation card and receive guest response.
+      <p class="mt-4">My main role is <strong>Project Owner</strong>.</p>
+      <p class="mt-4">Project site: <a href="https://locanstories.vn/" target="_blank">https://locanstories.vn/</a></p>
+   </div>
+</div>
+
+***
+
 # VOLUNTEER
 
 ## Review vaccinated information application
