@@ -311,7 +311,9 @@ More importantly, I realized that forcing me to find a valuable idea.<br/>
 I will comeback and bring it to students and many types of audience.
       <p class="mt-4">My main role is <strong>Project Owner</strong>.</p>
    </div>
-   <img src="/assets/images/jeckin.jpg" alt="jecken" loading="lazy"/>
+   <div class="flex flex-col justify-center">
+      <img src="/assets/images/jeckin.jpg" alt="jecken" loading="lazy"/>
+   </div>
 </div>
 
 ***
