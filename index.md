@@ -322,15 +322,32 @@ and the local medical facilities will monitor and support in time.
 
 My main role is __Developer__
 
+<br/>
 ## The martyrs' information management system (conduct at Ho Chi Minh City Martyrs Cemetery)
 
 The project came into operation on July 26, 2017 so that families, soldier comrades, visitors, etc. can directly look up search information and print a map to guide the way to the graves.
 The work digitizes about 14,300 martyrs' tombstones at the Martyrs' Cemetery in Ho Chi Minh City.
 This is the first time that the list of martyrs of the Ho Chi Minh City Martyrs Cemetery has been widely published on the Internet instead of only serving internal management as before.
 
-This project is still on https://tphcm.anhhunglietsi.vn/
+<br/>
+![The martyrs' information management system](/assets/images/projects/martyrs-information-management-system.png "The martyrs' information management system")
+<br/>
+Project site: [https://tphcm.anhhunglietsi.vn/](https://tphcm.anhhunglietsi.vn/)
 
 My main role is __Project Manager__
+
+<br/>
+## Go Volunteer Ho Chi Minh city
+
+All information about Volunteer Campaigns of Ho Chi Minh Communist Youth Union. In addition, user can search their certificates.
+
+<br/>
+![Go volunteer Ho Chi Minh city system](/assets/images/projects/govolunteerhcmc.png "Govolunteer Ho Chi Minh city")
+<br/>
+
+Project site: [https://govolunteerhcmc.vn/](https://govolunteerhcmc.vn/)
+
+My main role is __Project Owner__
 
 # REFERENCES
 
