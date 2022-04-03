@@ -222,6 +222,25 @@ And I work as a freelancer from 2016. So, feel free to take a look at my project
 
 ***
 
+## Launch pad for Dapp
+
+<div class="grid gap-10 grid-cols-1 md:grid-cols-2 mt-4">
+   <div>
+      <img src="/assets/images/projects/launch-pad.jpeg" alt="lauch pad for dapp" loading="lazy"/>
+      <div class="mt-4">
+         My main role is <strong>Team Leader/Web Engineer</strong><br/>
+         The staging site: <a href="https://tame.defihorse.com/" target="_blank">https://tame.defihorse.com/</a>
+      </div>
+   </div>
+   <div>
+      We develop many smart contracts (IBCO, Staking, Vesting, Bidding, Integrated Contract with Galler.io) which follow ERC20, was deployed onto Binance Smart Chain. <br/><br/>
+      We build an application allow user interact with smart contract through web3.js to deposit, withdraw and claim their token. Besides, user must connect Telegram channel, Twitter and join Discord server before accessing our events.<br/><br/>
+      We build a high load system which can serve 30K CCU. Our tactics are deployed on the cloud of AWS system. We are using terraform for scaling number of instances and auto deploy. Next, we write an ansible script for updating new app onto all.<br/><br/>
+   </div>
+</div>
+
+***
+
 ## Video on Demand
 
 <div class="grid gap-10 grid-cols-1 md:grid-cols-2">
@@ -235,27 +254,6 @@ And I work as a freelancer from 2016. So, feel free to take a look at my project
    My main role in this project is Web/Animation Developer. <br/>
    The staging site: <a href="http://vimai.escondido.dev.vimai.io/" target="_blank">http://vimai.escondido.dev.vimai.io/</a>
 </p>
-
-***
-
-## Launch pad for Dapp
-
-We have many works to do.
-
-<div class="grid gap-10 grid-cols-1 md:grid-cols-2 mt-4">
-   <div>
-      First, we develop a smart contract which follow ERC20, was deployed onto Binance Smart Chain. <br/><br/>
-      Second, we build an application allow user interact with smart contract through web3.js to deposit, withdraw and claim their token. Besides, user must connect Telegram channel, Twitter and join Discord server before accessing our events.<br/><br/>
-      Thirst, we build a high load system which can serve 30K CCU. Our tactics are deployed on the cloud of AWS system. We are using terraform for scaling number of instances and auto deploy. Next, we write an ansible script for updating new app onto all.<br/><br/>
-   </div>
-   <div>
-      <img src="/assets/images/projects/launch-pad.jpeg" alt="lauch pad for dapp" loading="lazy"/>
-      <div class="mt-4">
-         My main role is <strong>Team Leader/Web Engineer</strong><br/>
-         The staging site: <a href="https://tame.defihorse.com/" target="_blank">https://tame.defihorse.com/</a>
-      </div>
-   </div>
-</div>
 
 ***
 
