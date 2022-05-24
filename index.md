@@ -216,11 +216,22 @@ My ability to be a critical thinker will allow me to assess those solutions and 
    >
    > Good understanding of caching (redis), web security (https, cors, csp, owasp), testing, CI/CD, search engine, message broker, containerization, web socket, web server (nginx).
 
-4. 2022 - now: __Junior Software Engineer__ at CoincuLabs / Ho Chi Minh City
+4. 2022 - now: __Senior Software Engineer__ at CoincuLabs / Ho Chi Minh City
+
+   > Developing smart contract for ERC20 Token. Token was deployed on Binance Smart chain Network and listed on DEX Pancakeswap exchange. 
+   > 
+   > Some contracts:
+   > - ERC20, ERC721, ERC1155
+   > - Marketplace, auction
+   > - IBCO (Initial Bonding Curve Offering) - create a pool with a supply, investor can throw money and receive tokens when event ends.
+   > - Vesting token
+   > - Staking token, staking NFT and staking main token to retrieve extra token
+   > 
+   > Utilities:
+   > - Moralis SDK
+   > - Hardhat
 
 And I work as a freelancer from 2016. So, feel free to take a look at my projects bellow:
-
-***
 
 ## Launch pad for Dapp
 
@@ -233,7 +244,7 @@ And I work as a freelancer from 2016. So, feel free to take a look at my project
       </div>
    </div>
    <div>
-      We develop many smart contracts (IBCO, Staking, Vesting, Bidding, Integrated Contract with Galler.io) which follow ERC20, was deployed onto Binance Smart Chain. <br/><br/>
+      We develop 10 smart contracts (IBCO, Staking, Vesting, Bidding, Marketplace, Integrated Contract with Galler.io) which follow ERC20, was deployed onto Binance Smart Chain. <br/><br/>
       We build an application allow user interact with smart contract through web3.js to deposit, withdraw and claim their token. Besides, user must connect Telegram channel, Twitter and join Discord server before accessing our events.<br/><br/>
       We build a high load system which can serve 30K CCU. Our tactics are deployed on the cloud of AWS system. We are using terraform for scaling number of instances and auto deploy. Next, we write an ansible script for updating new app onto all.<br/><br/>
    </div>
