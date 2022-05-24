@@ -219,19 +219,19 @@ My ability to be a critical thinker will allow me to assess those solutions and 
 4. 2022 - now: __Senior Software Engineer__ at CoincuLabs / Ho Chi Minh City
 
    > Developing smart contract for ERC20 Token. Token was deployed on Binance Smart chain Network and listed on DEX Pancakeswap exchange. 
-   > 
+   >
    > Some contracts:
-   > - ERC20, ERC721, ERC1155
-   > - Marketplace, auction
-   > - IBCO (Initial Bonding Curve Offering) - create a pool with a supply, investor can throw money and receive tokens when event ends.
-   > - Vesting token
-   > - Staking token, staking NFT and staking main token to retrieve extra token
+   > ERC20, ERC721, ERC1155 
+   > Marketplace, auction
+   > IBCO (Initial Bonding Curve Offering) - create a pool with a supply, investor can throw money and receive tokens when event ends.
+   > Vesting token
+   > Staking token, staking NFT and staking main token to retrieve extra token
    > 
    > Utilities:
-   > - Moralis SDK
-   > - Hardhat
+   > Moralis SDK
+   > Hardhat
 
-And I work as a freelancer from 2016. So, feel free to take a look at my projects bellow:
+So, feel free to take a look at my projects bellow:
 
 ## Launch pad for Dapp
 
