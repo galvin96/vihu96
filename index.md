@@ -263,7 +263,7 @@ So, feel free to take a look at my projects bellow:
 
 <p class="my-4">
    My main role in this project is Web/Animation Developer. <br/>
-   The staging site: <a href="http://vimai.escondido.dev.vimai.io/" target="_blank">http://vimai.escondido.dev.vimai.io/</a>
+   The production site: <a href="https://www.muchomas.tv/" target="_blank">https://www.muchomas.tv/</a>; <a href="https://sctvonline.vn/" target="_blank">https://sctvonline.vn/</a>
 </p>
 
 ***
