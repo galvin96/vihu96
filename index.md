@@ -239,12 +239,12 @@ So, feel free to take a look at my projects bellow:
    <div>
       We make Artfi NFTs and allows to trade on our marketplace.<br/><br/>
       
-      An artist can create account and sell their painting. They have to deposit the painting to our store, we have multiple appraisers who judge the quality of the painting before selling them.<br/><br/>
+      An artist can create account and sell their painting. They have to deposit the painting to our gallery store, we have multiple appraisers who judge the quality of the painting before selling them.<br/><br/>
       
       And when somebody decide to buy one, they will own a NFT and a painting will delivery to their home.
    </div>
    <div>
-      <img src="/assets/images/projects/launch-pad.jpeg" alt="lauch pad for dapp" loading="lazy"/>
+      <img src="/assets/images/projects/ArtFi-Gallery.jpg" alt="ArtFi Gallery" loading="lazy"/>
       <div class="mt-4">
          My main role is <strong>Team Leader</strong><br/>
          The staging site: <a href="https://sandbox.art-fi.gallery/" target="_blank">https://sandbox.art-fi.gallery/</a>
