@@ -233,6 +233,27 @@ My ability to be a critical thinker will allow me to assess those solutions and 
 
 So, feel free to take a look at my projects bellow:
 
+## Artfi
+
+<div class="grid gap-10 grid-cols-1 md:grid-cols-2 mt-4">
+   <div>
+      We make Artfi NFTs and allows to trade on our marketplace.<br/><br/>
+      
+      An artist can create account and sell their painting. They have to deposit the painting to our store, we have multiple appraisers who judge the quality of the painting before selling them.<br/><br/>
+      
+      And when somebody decide to buy one, they will own a NFT and a painting will delivery to their home.
+   </div>
+   <div>
+      <img src="/assets/images/projects/launch-pad.jpeg" alt="lauch pad for dapp" loading="lazy"/>
+      <div class="mt-4">
+         My main role is <strong>Team Leader</strong><br/>
+         The staging site: <a href="https://sandbox.art-fi.gallery/" target="_blank">https://sandbox.art-fi.gallery/</a>
+      </div>
+   </div>
+</div>
+
+***
+
 ## Launch pad for Dapp
 
 <div class="grid gap-10 grid-cols-1 md:grid-cols-2 mt-4">
