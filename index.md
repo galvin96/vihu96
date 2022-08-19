@@ -233,15 +233,30 @@ My ability to be a critical thinker will allow me to assess those solutions and 
 
 So, feel free to take a look at my projects bellow:
 
+## Vivote.vn
+
+<div class="grid gap-10 grid-cols-1 md:grid-cols-2 mt-4">
+   <div>
+      <img src="/assets/images/projects/vivote.jpg" alt="Video voting application" loading="lazy"/>
+      <div class="mt-4">
+         My main role is <strong>Team Leader</strong><br/>
+         Site: <a href="https://vivote.vn/" target="_blank">https://vivote.vn/</a>
+      </div>
+   </div>
+   <div>
+      Video voting application for Central Committee of the Ho Chi Minh Communist Youth Union.<br/><br/>
+   </div>
+</div>
+
 ## Artfi
 
 <div class="grid gap-10 grid-cols-1 md:grid-cols-2 mt-4">
    <div>
       We make Artfi NFTs and allows to trade on our marketplace.<br/><br/>
       
-      An artist can create account and sell their painting. They have to deposit the painting to our gallery store, we have multiple appraisers who judge the quality of the painting before selling them.<br/><br/>
+      An artist can create account and sell their painting. They must deposit the painting to our gallery store, we have multiple appraisers who judge the quality of the painting before selling them.<br/><br/>
       
-      And when somebody decide to buy one, they will own a NFT and a painting will delivery to their home.
+      And when somebody decide to buy one, they will own a NFT, besides a painting will delivery to their home.
    </div>
    <div>
       <img src="/assets/images/projects/ArtFi-Gallery.jpg" alt="ArtFi Gallery" loading="lazy"/>
@@ -254,7 +269,7 @@ So, feel free to take a look at my projects bellow:
 
 ***
 
-## Launch pad for Dapp
+## Defihorse
 
 <div class="grid gap-10 grid-cols-1 md:grid-cols-2 mt-4">
    <div>
@@ -265,7 +280,7 @@ So, feel free to take a look at my projects bellow:
       </div>
    </div>
    <div>
-      We develop 10 smart contracts (IBCO, Staking, Vesting, Bidding, Marketplace, Integrated Contract with Galler.io) which follow ERC20, was deployed onto Binance Smart Chain. <br/><br/>
+      We develop 10 smart contracts (IBCO for Launchpad, Staking, Vesting, Bidding, Marketplace, Integrated Contract with Galler.io) which follow ERC20, was deployed onto Binance Smart Chain. <br/><br/>
       We build an application allow user interact with smart contract through web3.js to deposit, withdraw and claim their token. Besides, user must connect Telegram channel, Twitter and join Discord server before accessing our events.<br/><br/>
       We build a high load system which can serve 30K CCU. Our tactics are deployed on the cloud of AWS system. We are using terraform for scaling number of instances and auto deploy. Next, we write an ansible script for updating new app onto all.<br/><br/>
    </div>
