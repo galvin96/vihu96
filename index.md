@@ -13,6 +13,15 @@ Experienced full-stack developer with a focus on innovation, architecture and pr
 <div class="grid grid-cols-2 md:grid-cols-3 gap-4 mt-10">
    <div class="skill-item">
       <div class="skill-thumbnail flex justify-center items-center">
+         <img src="/assets/images/solidity.svg" class="skill-name">
+         <img src="/assets/images/star-4.png" class="absolute skill-level">
+      </div>
+      <p class="skill-title">
+         Solidity
+      </p>
+   </div>
+   <div class="skill-item">
+      <div class="skill-thumbnail flex justify-center items-center">
          <img src="/assets/images/nodejs.png" class="skill-name">
          <img src="/assets/images/star-5.png" class="absolute skill-level">
       </div>
@@ -76,11 +85,11 @@ Experienced full-stack developer with a focus on innovation, architecture and pr
    </div>
    <div class="skill-item">
       <div class="skill-thumbnail flex justify-center items-center">
-         <img src="/assets/images/solidity.svg" class="skill-name">
+         <img src="/assets/images/golang.png" class="skill-name">
          <img src="/assets/images/star-2.png" class="absolute skill-level">
       </div>
       <p class="skill-title">
-         Solidity
+         Golang
       </p>
    </div>
 </div>
