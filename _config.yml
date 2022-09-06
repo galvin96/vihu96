@@ -8,3 +8,10 @@ show_downloads: true
 github:
   repository_url: https://github.com/vihu96
   pdf_url: /assets/pdf/CV_Viet_Hung.jpg
+seo:
+  name: Lê Viết Hưng
+  type: Person
+  links:
+    https://github.com/vihu96
+    https://www.viethung.info
+  
