@@ -247,15 +247,16 @@ So, feel free to take a look at my projects bellow:
 <div class="grid gap-10 grid-cols-1 md:grid-cols-2 mt-4">
    <div>
       <img src="/assets/images/projects/vivote.jpg" alt="Video voting application" loading="lazy"/>
-      <div class="mt-4">
-         My main role is <strong>Team Leader</strong><br/>
-         Site: <a href="https://vivote.vn/" target="_blank">https://vivote.vn/</a>
-      </div>
+      
    </div>
    <div>
       Video voting application for Central Committee of the Ho Chi Minh Communist Youth Union.<br/><br/>
+      My main role is <strong>Team Leader</strong><br/>
+      Site: <a href="https://vivote.vn/" target="_blank">https://vivote.vn/</a>
    </div>
 </div>
+
+***
 
 ## Artfi
 
