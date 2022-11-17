@@ -246,8 +246,7 @@ So, feel free to take a look at my projects bellow:
 
 <div class="grid gap-10 grid-cols-1 md:grid-cols-2 mt-4">
    <div>
-      Blockchain or Crypto bridges work just like the real thing, but instead of connecting physical places together, they are used to connect digital ecosystems together. These bridges can pass both information and assets between the bridged blockchains. We call this a cross-chain transfer.<br/>
-
+      Blockchain or Crypto bridges work just like the real thing, but instead of connecting physical places together, they are used to connect digital ecosystems together. These bridges can pass both information and assets between the bridged blockchains. We call this a cross-chain transfer.<br/><br/>
       My responsibility is modifying smart contract, developing mock script to transfer ERC20/ERC721 between BSC and Owned Chain, developing UI and execution a stress test flow.<br/>
    </div>
    <div>
