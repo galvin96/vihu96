@@ -242,12 +242,26 @@ My ability to be a critical thinker will allow me to assess those solutions and 
 
 So, feel free to take a look at my projects bellow:
 
+## Blockchain Bridge
+
+<div class="grid gap-10 grid-cols-1 md:grid-cols-2 mt-4">
+   <div>
+      Blockchain or Crypto bridges work just like the real thing, but instead of connecting physical places together, they are used to connect digital ecosystems together. These bridges can pass both information and assets between the bridged blockchains. We call this a cross-chain transfer.
+
+      My responsibility is modifying smart contract, developing mock script to transfer ERC20/ERC721 between BSC and Owned Chain, developing UI and execution a stress test flow.
+   </div>
+   <div>
+      <img src="/assets/images/projects/blockchain-bridge.jpeg" alt="BLockchain Bridge" loading="lazy"/>
+   </div>
+</div>
+
+***
+
 ## Vivote.vn
 
 <div class="grid gap-10 grid-cols-1 md:grid-cols-2 mt-4">
    <div>
-      <img src="/assets/images/projects/vivote.jpg" alt="Video voting application" loading="lazy"/>
-      
+      <img src="/assets/images/projects/vivote.jpg" alt="Video voting application" loading="lazy"/><br/>
    </div>
    <div>
       Video voting application for Central Committee of the Ho Chi Minh Communist Youth Union.<br/><br/>
@@ -267,13 +281,12 @@ So, feel free to take a look at my projects bellow:
       An artist can create account and sell their painting. They must deposit the painting to our gallery store, we have multiple appraisers who judge the quality of the painting before selling them.<br/><br/>
       
       And when somebody decide to buy one, they will own a NFT, besides a painting will delivery to their home.
+      
+      My main role is <strong>Team Leader</strong><br/>
+      The staging site: <a href="https://sandbox.art-fi.gallery/" target="_blank">https://sandbox.art-fi.gallery/</a><br/><br/>
    </div>
    <div>
       <img src="/assets/images/projects/ArtFi-Gallery.jpg" alt="ArtFi Gallery" loading="lazy"/>
-      <div class="mt-4">
-         My main role is <strong>Team Leader</strong><br/>
-         The staging site: <a href="https://sandbox.art-fi.gallery/" target="_blank">https://sandbox.art-fi.gallery/</a>
-      </div>
    </div>
 </div>
 
