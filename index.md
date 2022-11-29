@@ -253,6 +253,7 @@ So, please feel free to look at my work below:
       DAO’s governance parameters have worked well thus far, with comprehensive governance safeguards that ensured no one, including the Chainity team, can implement major changes to the DAO and the protocols in the network without going through a DAO vote in a decentralized manner. Chainity continues to have a decentralized governance process that is protected against malicious attacks.<br/><br/>
       My responsibility is modifying the smart contract, developing backend, deployment and presenter.<br/>
       Beta site: <a href="https://beta.webdao.app/" target="_blank">https://beta.webdao.app/</a>
+      <br/>
    </div>
 </div>
 
