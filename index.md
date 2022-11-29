@@ -225,32 +225,49 @@ My ability to be a critical thinker will allow me to assess those solutions and 
    >
    > Good understanding of caching (redis), web security (https, cors, csp, owasp), testing, CI/CD, search engine, message broker, containerization, web socket, web server (nginx).
 
-4. 2022 - now: __Senior Software Engineer__ at CoincuLabs / Ho Chi Minh City
+4. 2022 - now: __Senior Software Engineer__ at Chainity / Ho Chi Minh City
 
-   > Developing smart contract for ERC20 Token. Token was deployed on Binance Smart chain Network and listed on DEX Pancakeswap exchange. 
+   > Developing smart contract for ERC20/ERC721/ERC1155 Token. Token was deployed on Binance Smart chain Network and listed on DEX Pancakeswap exchange. 
    >
    > Some contracts:
+   > Blockchain Bridge
    > ERC20, ERC721, ERC1155 
    > Marketplace, auction
    > IBCO (Initial Bonding Curve Offering) - create a pool with a supply, investor can throw money and receive tokens when event ends.
-   > Vesting token
-   > Staking token, staking NFT and staking main token to retrieve extra token
+   > Vesting token, Staking token, staking NFT
+   > DAO contract
    > 
    > Utilities:
    > Moralis SDK
    > Hardhat
 
-So, feel free to take a look at my projects bellow:
+So, please feel free to look at my work below:
+
+## Webdao.app
+
+<div class="grid gap-10 grid-cols-1 md:grid-cols-2 mt-4">
+   <div>
+      <img src="/assets/images/projects/webdao.jpg" alt="Webdao.app application" loading="lazy"/><br/>
+   </div>
+   <div>
+      DAO’s governance parameters have worked well thus far, with comprehensive governance safeguards that ensured no one, including the Chainity team, can implement major changes to the DAO and the protocols in the network without going through a DAO vote in a decentralized manner. Chainity continues to have a decentralized governance process that is protected against malicious attacks.<br/><br/>
+      My responsibility is modifying the smart contract, developing backend, deployment and presenter.<br/>
+      Beta site: <a href="https://beta.webdao.app/" target="_blank">https://beta.webdao.app/</a>
+   </div>
+</div>
+
+
+***
 
 ## Blockchain Bridge
 
 <div class="grid gap-10 grid-cols-1 md:grid-cols-2 mt-4">
    <div>
       Blockchain or Crypto bridges work just like the real thing, but instead of connecting physical places together, they are used to connect digital ecosystems together. These bridges can pass both information and assets between the bridged blockchains. We call this a cross-chain transfer.<br/><br/>
-      My responsibility is modifying smart contract, developing mock script to transfer ERC20/ERC721 between BSC and Owned Chain, developing UI and execution a stress test flow.<br/>
+      My responsibility is modifying the smart contract, make a mock script to move ERC20/ERC721 between the BSC and Owned Chain, developing User Interface and run a stress test flow.<br/>
    </div>
    <div>
-      <img src="/assets/images/projects/blockchain-bridge.jpeg" alt="BLockchain Bridge" loading="lazy"/>
+      <img src="/assets/images/projects/blockchain-bridge.jpeg" alt="Blockchain Bridge" loading="lazy"/>
       <br/>
    </div>
 </div>
