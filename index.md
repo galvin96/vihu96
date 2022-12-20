@@ -243,6 +243,40 @@ My ability to be a critical thinker will allow me to assess those solutions and 
 
 So, please feel free to look at my work below:
 
+## Hamsterswap
+
+<div class="grid gap-10 grid-cols-1 md:grid-cols-2 mt-4">
+   <div>
+      <img src="/assets/images/projects/hamsterswap.png" alt="Hamsterswap application" loading="lazy"/><br/>
+   </div>
+   <div>
+      Hamsterbox is a magical black box with a suite of dapps and utility tools. The first core dapp within the box is Hamsterswap, a trustless, cross-chain peer-to-peer (P2P) protocol for swapping digital collectibles and assets. The second core service provided by Mr. Hamser (our mascot) in his box is Hamstermoney (Pay), a Web3 digital store for virtual goods, cross-app purchases, reloads and top-ups.<br/><br/>
+      Site: <a href="https://p2p.hamsterbox.xyz/" target="_blank">https://p2p.hamsterbox.xyz/</a>
+      <br/>
+   </div>
+</div>
+
+
+***
+
+## Mad Monkey Guild
+
+<div class="grid gap-10 grid-cols-1 md:grid-cols-2 mt-4">
+   <div>
+      Blockchain-Based Gaming Guild.<br/>
+      The MMG organization aims to create the biggest virtual global economy that optimizes its community-owned assets for maximum utility and sharing profits with its token holders.<br/><br/>
+      My responsibility is storing the value of game asset (Axie, Sipher, Blockchain Monster Hunt) of every accounts from guild and computing profit for guilder & player. Support guild leader to manage team member, the metrics per week.<br/><br/>
+      My main role: Backend & Frontend engineer.<br/><br/>
+      Read More: <a href="https://www.madmonkeyguild.com/" target="_blank">https://www.madmonkeyguild.com/</a>
+   </div>
+   <div>
+      <img src="/assets/images/projects/mmg.png" alt="Mad Monkey Guild" loading="lazy"/>
+      <br/>
+   </div>
+</div>
+
+***
+
 ## Webdao.app
 
 <div class="grid gap-10 grid-cols-1 md:grid-cols-2 mt-4">
