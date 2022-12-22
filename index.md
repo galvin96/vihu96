@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Experienced full-stack developer with a focus on innovation, architecture and properly designed software. Interested in blockchain, scalable distributed systems, service oriented architecture and messaging middleware. I am a leadership, friendly, informal and open minded person.
+Experienced full-stack developer with a focus on innovation, architecture and well-designed software. Blockchain, scalable distributed systems, service-oriented architecture, and messaging middleware are things that interest me. I am a leader, a friend, a pioneer, and a person with an open mind.
 
 # MY SKILLS
 
@@ -215,11 +215,11 @@ My ability to be a critical thinker will allow me to assess those solutions and 
 
 2. 2016 - 2017: __Fresher Software Engineer__ at VNG Company  /  Ho Chi Minh City
 
-   > Member of a high productive team to develop the landing page for promotion SmartPager project.
+   > Create a landing page to promote the SmartPager project as a member of a high-functioning team.
    > 
    > Development of the visualization module (JavaScript, HTML, SCSS) of Camera monitoring system.
 
-3. 2017 - 2022: __P Ltd.__ in Ho Chi Minh city
+3. 2017 - 2022: __YDEV Ltd.__ in Ho Chi Minh city
 
    > Core team member at the Single Sign On project that allows a user to log in with a single ID and password to any of several related, yet independent, software systems; and many internal systems.
    >
@@ -229,7 +229,7 @@ My ability to be a critical thinker will allow me to assess those solutions and 
 
    > Developing smart contract for ERC20/ERC721/ERC1155 Token. Token was deployed on Binance Smart chain Network and listed on DEX Pancakeswap exchange. 
    >
-   > Some contracts:
+   > Other contracts:
    > Blockchain Bridge
    > ERC20, ERC721, ERC1155 
    > Marketplace, auction
