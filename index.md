@@ -209,23 +209,7 @@ My ability to be a critical thinker will allow me to assess those solutions and 
 
 # WORK EXPERIENCE
 
-1. 2015 - 2018: __President of UIT’s Student Council__ at UIT-VNU  /  Ho Chi Minh City
-
-   > Become a person good at problem resolving, analytical, critical thinking skills; good communicator, teamwork or independence; time and team management skills.
-
-2. 2016 - 2017: __Fresher Software Engineer__ at VNG Company  /  Ho Chi Minh City
-
-   > Create a landing page to promote the SmartPager project as a member of a high-functioning team.
-   > 
-   > Development of the visualization module (JavaScript, HTML, SCSS) of Camera monitoring system.
-
-3. 2017 - 2022: __YDEV Ltd.__ in Ho Chi Minh city
-
-   > Core team member at the Single Sign On project that allows a user to log in with a single ID and password to any of several related, yet independent, software systems; and many internal systems.
-   >
-   > Good understanding of caching (redis), web security (https, cors, csp, owasp), testing, CI/CD, search engine, message broker, containerization, web socket, web server (nginx).
-
-4. 2022 - now: __Senior Software Engineer__ at Chainity / Ho Chi Minh City
+1. 2022 - now: __Senior Software Engineer__ at Chainity / Ho Chi Minh City
 
    > Developing smart contract for ERC20/ERC721/ERC1155 Token. Token was deployed on Binance Smart chain Network and listed on DEX Pancakeswap exchange. 
    >
@@ -240,6 +224,22 @@ My ability to be a critical thinker will allow me to assess those solutions and 
    > Utilities:
    > Moralis SDK
    > Hardhat
+
+2. 2017 - 2022: __YDEV Ltd.__ in Ho Chi Minh city
+
+   > Core team member at the Single Sign On project that allows a user to log in with a single ID and password to any of several related, yet independent, software systems; and many internal systems.
+   >
+   > Good understanding of caching (redis), web security (https, cors, csp, owasp), testing, CI/CD, search engine, message broker, containerization, web socket, web server (nginx).
+
+3. 2016 - 2017: __Fresher Software Engineer__ at VNG Company  /  Ho Chi Minh City
+
+   > Create a landing page to promote the SmartPager project as a member of a high-functioning team.
+   > 
+   > Development of the visualization module (JavaScript, HTML, SCSS) of Camera monitoring system.
+
+4. 2015 - 2018: __President of UIT’s Student Council__ at UIT-VNU  /  Ho Chi Minh City
+
+   > Develop problem-solving, analytical, and critical thinking skills; excellent communication, teamwork, or independence; and time and team management abilities.
 
 So, please feel free to look at my work below:
 
