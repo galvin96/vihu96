@@ -122,6 +122,15 @@ Experienced full-stack developer with a focus on innovation, architecture and we
 <div class="grid grid-cols-2 md:grid-cols-3 gap-4 mt-10">
    <div class="skill-item">
       <div class="skill-thumbnail flex justify-center items-center">
+         <img src="/assets/images/aws.png" class="skill-name">
+         <img src="/assets/images/star-5.png" class="absolute skill-level">
+      </div>
+      <p class="skill-title">
+         AWS
+      </p>
+   </div>
+   <div class="skill-item">
+      <div class="skill-thumbnail flex justify-center items-center">
          <img src="/assets/images/docker.png" class="skill-name">
          <img src="/assets/images/star-4.png" class="absolute skill-level">
       </div>
