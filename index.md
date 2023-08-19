@@ -214,11 +214,23 @@ My ability to be a critical thinker will allow me to assess those solutions and 
 > 
 > 2019
 
+4. __AWS Certified Solutions Architect – Associate__
+
+> Issued by Amazon Web Services Training and Certification
+> 
+> 2023
+
 <br/>
 
 # WORK EXPERIENCE
 
-1. 2022 - now: __Senior Software Engineer__ at Chainity / Ho Chi Minh City
+1. 2023 - now: __Senior Software Engineer__ at Saigon Technology / Ho Chi Minh City
+
+   > Main responsible for Cyber RoundTable project: estimation, implement CI/CD flow, tech lead in developing phase
+   > Working with colleagues from HappyMoney company directly to clarify requirements, solve technical problems, refactor, develop web services and unit test. Technologies: GraphQL, Okta authentication, Launch Darkly.
+   > Be presenter discussing the topic, such as: “Unit Testing in React”, "Tips & Tricks for AWS certification" in the annual sharing session.
+
+2. 2022 - 2023: __Senior Software Engineer__ at Chainity / Ho Chi Minh City
 
    > Developing smart contracts for ERC20/ERC721/ERC1155 Token. Token was deployed on Binance Smart chain Network and listed on DEX Pancakeswap exchange. 
    >
@@ -234,20 +246,20 @@ My ability to be a critical thinker will allow me to assess those solutions and 
    > Moralis SDK
    > Hardhat
 
-2. 2017 - 2022: __Junior__ at YDEV Ltd. / Ho Chi Minh city
+3. 2017 - 2022: __Junior__ at YDEV Ltd. / Ho Chi Minh city
 
    > Member of the Single Sign On project's core team.
    > Develop a process for authentication and authorization that allows a user to log in to related internal software systems with a single ID and password.
    >
    > Experienced in caching (redis), web security (https, cors, csp, owasp), testing, CI/CD, search engine, message broker, containerization, web socket, web server (nginx).
 
-3. 2016 - 2017: __Fresher Software Engineer__ at VNG Company  /  Ho Chi Minh City
+4. 2016 - 2017: __Fresher Software Engineer__ at VNG Company  /  Ho Chi Minh City
 
    > Create a landing page to promote the SmartPager project as a member of a high-functioning team.
    > 
    > Development the visualization module (JavaScript, HTML, SCSS) of Camera monitoring system.
 
-4. 2015 - 2018: __President of UIT’s Student Council__ at UIT-VNU  /  Ho Chi Minh City
+5. 2015 - 2018: __President of UIT’s Student Council__ at UIT-VNU  /  Ho Chi Minh City
 
    > Develop problem-solving, analytical, and critical thinking skills; excellent communication, teamwork, or independence; and time and team management abilities.
 
@@ -326,7 +338,7 @@ So, please feel free to look at my work below:
       <img src="/assets/images/projects/vivote.jpg" alt="Video voting application" loading="lazy"/><br/>
    </div>
    <div>
-      Video voting application for Central Committee of the Ho Chi Minh Communist Youth Union.<br/><br/>
+      Video voting application<br/><br/>
       My main role is <strong>Team Leader</strong><br/>
       Site: <a href="https://vivote.vn/" target="_blank">https://vivote.vn/</a>
    </div>
